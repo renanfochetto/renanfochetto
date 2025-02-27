@@ -20,7 +20,7 @@ Depois de mais de 12 anos de experiência na indústria de eventos, atuando nas 
 
 
 ## 🛠️ Habilidades
-!JavaScript | !TypeScript | !HTML | !CSS | !React.js | !Angular | !Git / GitHub
+JavaScript | TypeScript | HTML | CSS | React.js | Angular | Git / GitHub
 
 
 ## 🏆 Conquistas
