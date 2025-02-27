@@ -20,7 +20,7 @@ Depois de mais de 12 anos de experiência na indústria de eventos, atuando nas 
 
 
 ## 🛠️ Habilidades
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML | ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular | ![Git](https://img.icons8.com/color/48/000000/git.png) Git / GitHub
+!JavaScript | !TypeScript | !HTML | !CSS | !React.js | !Angular | !Git / GitHub
 
 
 ## 🏆 Conquistas
