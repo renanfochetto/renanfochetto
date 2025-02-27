@@ -1,3 +1,5 @@
+![](https://github.com/renanfochetto/renanfochetto/blob/main/Banner%20Linkedin.png)
+
 # Olá, eu sou Renan Fochetto 👋
 
 
