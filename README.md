@@ -1,7 +1,5 @@
 ![](https://github.com/renanfochetto/renanfochetto/blob/main/Banner%20Linkedin.png)
 
-# Olá, eu sou Renan Fochetto 👋
-
 
 ## 🧑‍💼 Sobre Mim
 Atualmente em transição de carreira para a área de Tecnologia da informação, com foco em Programação Front-End e Desenvolvimento Web.
