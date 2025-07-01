@@ -1,5 +1,3 @@
-![](https://github.com/renanfochetto/renanfochetto/blob/main/Banner%20Linkedin.png)
-
 # Sobre Mim
 Atualmente em transição de carreira para a área de Tecnologia da informação, com foco em Programação Front-End e Desenvolvimento Web.
 
@@ -13,11 +11,6 @@ Depois de mais de 12 anos de experiência na indústria de eventos, atuando nas 
 - React.js
 
 
-## 🌟 Projetos Principais
-- **[Dom Casmurro Audiobook](https://dom-casmurro-audiobook.vercel.app/)**: Aplicação web para ouvir o livro Dom Casmurro de Machado de Assis.
-- **[Visual Quotes](https://visual-quotes-rnn.vercel.app/)**: Site que exibe uma frase do dia acompanhada de uma imagem inspiradora.
-
-
 ## 🛠️ Habilidades
 JavaScript | TypeScript | HTML | CSS | React.js | Angular | Git / GitHub
 
@@ -29,8 +22,8 @@ JavaScript | TypeScript | HTML | CSS | React.js | Angular | Git / GitHub
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/renanfochetto/)
-- [Email](renandfochetto@gmail.com)
-- [Portfólio](https://portifolio-renanfochetto.vercel.app/)
+- [Email](self@renanfochetto.dev)
+- [Portfólio](https://renanfochetto.dev)
 
 
 ## 🎯 Objetivos
