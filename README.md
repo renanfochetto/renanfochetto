@@ -1,3 +1,5 @@
+![banner8](https://github.com/user-attachments/assets/3e4912a0-02ef-4ad8-b3bd-6c972e4d49a2)
+
 # Sobre Mim
 Atualmente em transição de carreira para a área de Tecnologia da informação, com foco em Programação Front-End e Desenvolvimento Web.
 
