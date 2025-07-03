@@ -1,4 +1,4 @@
-![bannenew](https://github.com/user-attachments/assets/94447990-6902-4f09-993a-cc0edde1e9db)
+![bannernovo](https://github.com/user-attachments/assets/efc07511-b42f-4b6f-abaf-b5865676b0aa)
 
 # Sobre Mim
 Atualmente em transição de carreira para a área de Tecnologia da informação, com foco em Programação Front-End e Desenvolvimento Web.
