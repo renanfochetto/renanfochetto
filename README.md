@@ -10,22 +10,23 @@ Depois de mais de 12 anos de experiência na indústria de eventos, atuando nas 
 - Front-end Development
 - Web Design
 - JavaScript/TypeScript
-- React.js
+- Front-End Frameworks
 
 
 ## 🛠️ Habilidades
-JavaScript | TypeScript | HTML | CSS | React.js | Angular | Git / GitHub
+JavaScript | TypeScript | HTML | CSS | React.js | Angular | Vue.js | Git / GitHub
 
 
 ## 🏆 Conquistas
 - Conclusão da Formação Front-End na Escola de Tecnologia Alura.
 - Conclusão do curso de Desenvolvimento Web Completo na Codans.
+- Conclusão do Professional Path no Front-End Masters
 
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/renanfochetto/)
 - [Email](self@renanfochetto.dev)
-- [Portfólio](https://renanfochetto.dev)
+- [Portfólio](https://www.renanfochetto.dev)
 
 
 ## 🎯 Objetivos
