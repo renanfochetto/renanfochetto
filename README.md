@@ -44,7 +44,6 @@ After more than 12 years of experience in the event industry, working in various
 I’m focused on continuously improving my front-end development skills and collaborating on innovative projects that make a positive impact on the world.
 
 
----
 
 
 Let’s build something together! 🚀
