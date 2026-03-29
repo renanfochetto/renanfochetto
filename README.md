@@ -1,4 +1,7 @@
-![bannernovo](https://github.com/user-attachments/assets/efc07511-b42f-4b6f-abaf-b5865676b0aa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9fd4062-4313-42da-8a1d-1a502db9ebbc" alt="renanfochetto-banner" />
+</p>
+
 
 # About Me
 Currently transitioning into the Information Technology field, with a focus on Front-End Programming and Web Development.
