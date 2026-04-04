@@ -38,6 +38,6 @@ Open to collaborating on interesting projects, contributing to meaningful produc
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-renanfochetto.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renanfochetto.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanfochetto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfochetto)
-[![Email](https://img.shields.io/badge/Email-self@renanfochetto.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:self@renanfochetto.dev)
+<a href="https://renanfochetto.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-renanfochetto.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/renanfochetto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-renanfochetto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:self@renanfochetto.dev"><img src="https://img.shields.io/badge/Email-self@renanfochetto.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
