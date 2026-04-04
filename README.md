@@ -1,6 +1,8 @@
 # Hi, I'm Renan Fochetto 👋
 
-Front-End Developer focused on performance, accessibility, and well-crafted digital experiences. I care about the details that most people skip — from clean architecture and semantic code to the last millisecond of load time.
+Front-End Developer focused on performance, accessibility, and well-crafted digital experiences. I believe great interfaces live in the details — clean architecture, semantic code, and performance that users feel without noticing.
+
+<br>
 
 ## Stack
 
@@ -26,12 +28,16 @@ Front-End Developer focused on performance, accessibility, and well-crafted digi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+<br>
+
 ## Looking for
 
-Open to collaborating on interesting projects, contributing to meaningful products, and connecting with teams that care about quality as much as I do. Always learning, always building.
+Open to collaborating on interesting projects, contributing to meaningful products, and connecting with teams that value quality and craft. Always learning, always building.
+
+<br>
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-renanfochetto.dev-000000?style=flat&logo=vercel&logoColor=white)](https://renanfochetto.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanfochetto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfochetto)
-[![Email](https://img.shields.io/badge/Email-self@renanfochetto.dev-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:self@renanfochetto.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-renanfochetto.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://renanfochetto.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanfochetto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfochetto)
+[![Email](https://img.shields.io/badge/Email-self@renanfochetto.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:self@renanfochetto.dev)
