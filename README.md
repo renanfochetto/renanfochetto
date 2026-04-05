@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./renanfochetto-banner-dark.png" alt="Renan Fochetto - Frontend Developer" width="100%" />
+</div>
+
+<br>
+
 # Hi, I'm Renan Fochetto 👋
 
 Front-End Developer focused on performance, accessibility, and well-crafted digital experiences. I believe great interfaces live in the details — clean architecture, semantic code, and performance that users feel without noticing.
